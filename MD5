@@ -1,0 +1,15 @@
+ad4c4dd36f54a7be2144617776117941 *DESCRIPTION
+87721e316c7a97bb8e05b9528093fb70 *NAMESPACE
+e550ba8b5bc0588e7d16738742d63e4a *R/LimOmega.R
+ef3a78eac6520e25a66cdf1067405f14 *data/LIMdata.R
+620b61d7c36118db6dd6c1de12c061a1 *data/LIMdata.Rdata
+9a6530afbbcbbbd551830023ab856536 *data/LIMlake.Rdata
+d4de319eb553ba0e7725e8292c4b1eb2 *inst/CITATION
+800be48ea1f411a9959d716fddbf31f2 *inst/doc/ToxLim.Rnw
+12425bc8fe3cf620cdcfb8bd2afa0130 *inst/doc/ToxLim.pdf
+b45b609a3c466a9ece8145022f581b51 *inst/doc/vignettes.bib
+067384efdbdced7801dd46c9afbf185e *inst/examples/LIMomega.R
+de1f20595f9ff945b01b1a8fce0a56d6 *man/LIMbarents.Rd
+e2fb7e3340645110ef14ba96e6e7fa2c *man/LIMlake.Rd
+d0ae78cf30a0f1ce8b73900d458e0303 *man/LimOmega.Rd
+643c9c8306246122ac00b595ac128790 *man/ToxLim.Rd
